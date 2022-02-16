@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("hello world!");
+    int a = 34;
+    printf("%d", a);
     return 0;
 }
